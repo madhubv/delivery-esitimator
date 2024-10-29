@@ -119,3 +119,7 @@ ns preview
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
+
+#output
+![WhatsApp Image 2024-10-29 at 11 24 36_cd60c781](https://github.com/user-attachments/assets/d2b9dbaf-11c9-4d4d-8baf-c67ea7e835eb)
+
